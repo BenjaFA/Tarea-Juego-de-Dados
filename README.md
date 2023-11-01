@@ -28,6 +28,22 @@
 
 ![image](https://github.com/BenjaFA/Tarea-Juego-de-Dados/assets/142475169/6429e206-3701-432a-a5df-96e1c4ade8f0)
 
+## Codigo fuente 
+
+![image](https://github.com/BenjaFA/Tarea-Juego-de-Dados/assets/142475169/36002bd1-0e99-4061-9f1e-ce158480b4f3)
+
+![image](https://github.com/BenjaFA/Tarea-Juego-de-Dados/assets/142475169/9387b52e-ad72-4cc1-8116-f8fd10ae366a)
+
+![image](https://github.com/BenjaFA/Tarea-Juego-de-Dados/assets/142475169/dfb5e1af-f92a-494e-9e95-b1bd543cb259)
+
+
+## Prueba unitaria
+
+![image](https://github.com/BenjaFA/Tarea-Juego-de-Dados/assets/142475169/e927552a-c34d-4cdd-a76e-7642a77f9aa6)
+
+
+
+
 
 
 
