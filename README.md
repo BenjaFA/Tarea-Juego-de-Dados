@@ -18,6 +18,19 @@
 
 ![image](https://github.com/BenjaFA/Tarea-Juego-de-Dados/assets/142475169/bb190f42-a2b8-44bb-aaa3-76a213030daa)
 
+### 5) 
+
+## Generacion de codigo por parte del Visual Paradigm
+
+![image](https://github.com/BenjaFA/Tarea-Juego-de-Dados/assets/142475169/c07c8fb0-133c-4f20-85a3-0a9c33351f4c)
+
+![image](https://github.com/BenjaFA/Tarea-Juego-de-Dados/assets/142475169/3edd79a0-6948-4d3a-9963-4c92f0f1a0f5)
+
+![image](https://github.com/BenjaFA/Tarea-Juego-de-Dados/assets/142475169/6429e206-3701-432a-a5df-96e1c4ade8f0)
+
+
+
+
 
 
 
